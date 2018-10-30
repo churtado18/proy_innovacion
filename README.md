@@ -25,10 +25,10 @@ Seleccionar circulos de la visualización.
 ## Autores 
 
 Conjunto de datos:
-Departamento Administrativo de Ciencia, Tecnología e Innovación.
+Departamento Administrativo de Ciencia, Tecnología e Innovación.      
 https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/PROYECTOS-DE-INVESTIGACI-N-E-INNOVACI-N-2016/iwxh-i4ik
 
-Autor Visualización: Carmelo Hurtado Orozco
+Autor Visualización: Carmelo Hurtado Orozco        
 Link: https://churtado18.github.io/proy_innovacion/index.html
 
 
