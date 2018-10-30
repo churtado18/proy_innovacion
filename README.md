@@ -6,7 +6,7 @@
 
 Explorar topología de programas de investigación e innovación aprobados por colciencias en 2016.   
 Identificar cantidad de proyectos aprobados por ciudad.   
-Abstración de los datos   
+Abstracción de los datos   
 Identificar Insight  
 
 
