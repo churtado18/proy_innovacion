@@ -1,0 +1,669 @@
+{
+    "name": "Proyectos de Investigación",
+    "children": [
+      { 
+        "name": "2013",
+        "children": [
+          { 
+			"name": "VALLE DEL CAUCA",
+			"children": [
+				{
+					"name": "CALI",
+					"children": [
+						{
+							"name": "DESARROLLO TECNOLOGICO E INNOVACION"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				}
+			
+			]
+		  }         
+        ]
+      },	  
+	  
+      { 
+        "name": "2014",
+        "children": [
+          { 
+			"name": "BOGOTA D. C.",
+			"children": [
+				{
+					"name": "BOGOTA D.C.",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}					
+					]
+				}
+			
+			]
+		  }         
+        ]
+      },
+	  
+	  { 
+        "name": "2015",
+        "children": [
+          { 
+			"name": "ANTIOQUIA",
+			"children": [
+				{
+					"name": "MARINILLA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				},
+				{
+					"name": "MEDELLIN",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN AMBIENTE, OCEANOS Y BIODIVERSIDAD"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN CIENCIAS HUMANAS SOCIALES Y EDUCACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN INGENIERIA"
+						},
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 21" 
+						}					
+					]
+				},
+					{
+					"name": "SABANETA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				}
+			
+			]
+		  },
+
+		  { 
+			"name": "ATLANTICO",
+			"children": [
+				{
+					"name": "BARRANQUILLA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 3" 
+						}
+					
+					]
+				}
+			
+			]
+		  },
+
+		  { 
+			"name": "BOGOTA D.C.",
+			"children": [
+				{
+					"name": "BOGOTA D.C.",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN CIENCIAS HUMANAS SOCIALES Y EDUCACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN INGENIERIA"
+						},
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 17" 
+						}					
+					]
+				}
+			
+			]
+		  },
+		  
+		  { 
+			"name": "BOLIVAR",
+			"children": [
+				{
+					"name": "CARTAGENA DE INDIAS",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 3" 
+						}
+					
+					]
+				}
+			
+			]
+		  },
+		  
+		  { 
+			"name": "CAQUETA",
+			"children": [
+				{
+					"name": "FLORENCIA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				}
+			
+			]
+		  },
+		  
+		  { 
+			"name": "QUINDIO",
+			"children": [
+				{
+					"name": "ARMENIA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				}
+			
+			]
+		  },
+		  
+		  { 
+			"name": "RISARALDA",
+			"children": [
+				{
+					"name": "PEREIRA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN INGENIERIA"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				}
+			
+			]
+		  },
+		  
+		  { 
+			"name": "SANTANDER",
+			"children": [
+				{
+					"name": "FLORIDABLANCA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 2" 
+						}
+					
+					]
+				},
+				{
+					"name": "PIEDECUESTA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				}
+			
+			]
+		  },
+		  
+		  { 
+			"name": "TOLIMA",
+			"children": [
+				{
+					"name": "IBAGUE",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				}
+			
+			]
+		  },
+		  
+		  { 
+			"name": "VALLE DEL CAUCA",
+			"children": [
+				{
+					"name": "CALI",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN CIENCIAS HUMANAS SOCIALES Y EDUCACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL EN CIENCIAS BASICAS"
+						},
+						{
+						"name": "Proyectos aprobados: 7" 
+						}				
+					]
+				}
+			
+			]
+		  }
+		  
+		  
+        ]
+      },
+	  
+	  { 
+        "name": "2016",
+        "children": [
+          { 
+			"name": "ANTIOQUIA",
+			"children": [
+				{
+					"name": "CAUCASIA",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				},
+				{
+					"name": "MEDELLIN",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE BIOTECNOLOGIA"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD "
+						},
+						{
+						"name": "Proyectos aprobados: 31" 
+						}				
+					]
+				},
+				{
+					"name": "SABANETA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE BIOTECNOLOGIA"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				},
+				{
+					"name": "SAN PEDRO DE LOS MILAGROS",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				}
+			
+			]
+		  },
+{ 
+			"name": "ATLANTICO",
+			"children": [
+				{
+					"name": "BARANOA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				},
+				{
+					"name": "BARRANQUILLA",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIAS DEL MAR Y LOS RECURSOS HIDROBIOLOGICOS"
+						},
+						{
+						"name": "Proyectos aprobados: 2" 
+						}				
+					]
+				}
+			
+			]
+		  }, 
+{ 
+			"name": "BOGOTA D.C.",
+			"children": [
+				{
+					"name": "BOGOTA D.C.",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE BIOTECNOLOGIA"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN AMBIENTE, BIODIVERSIDAD Y HABITAT"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD "
+						},
+						{
+						"name": "Proyectos aprobados: 24" 
+						}				
+					]
+				}
+			
+			]
+		  }, 
+		  { 
+			"name": "BOLIVAR",
+			"children": [
+				{
+					"name": "CARTAGENA DE INDIAS",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIAS DEL MAR Y LOS RECURSOS HIDROBIOLOGICOS"
+						},
+						{
+						"name": "Proyectos aprobados: 3" 
+						}
+					
+					]
+				}
+			
+			]
+		  }, 
+{ 
+			"name": "CALDAS",
+			"children": [
+				{
+					"name": "MANIZALES",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE BIOTECNOLOGIA"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD"
+						},
+						{
+						"name": "Proyectos aprobados: 5" 
+						}			
+					]
+				}
+			
+			]
+		  },   
+{ 
+			"name": "CAUCA",
+			"children": [
+				{
+					"name": "POPAYAN",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN AMBIENTE, BIODIVERSIDAD Y HABITAT"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				}
+			
+			]
+		  }, 
+{ 
+			"name": "MAGDALENA",
+			"children": [
+				{
+					"name": "SANTA MARTA",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE BIOTECNOLOGIA"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD "
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIAS DEL MAR Y LOS RECURSOS HIDROBIOLOGICOS"
+						},
+						{
+						"name": "Proyectos aprobados: 5" 
+						}					
+					]
+				}
+			
+			]
+		  },  
+		{ 
+			"name": "META",
+			"children": [
+				{
+					"name": "VILLAVICENCIO",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE BIOTECNOLOGIA"
+						},
+						{
+						"name": "Proyectos aprobados: 2" 
+						}
+					
+					]
+				}
+			
+			]
+		  },  
+{ 
+			"name": "QUINDIO",
+			"children": [
+				{
+					"name": "ARMENIA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD "
+						},
+						{
+						"name": "Proyectos aprobados: 2" 
+						}					
+					]
+				}
+			
+			]
+		  },   
+{ 
+			"name": "RISARALDA",
+			"children": [
+				{
+					"name": "BELEN DE UMBRIA",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				},
+				{
+					"name": "PEREIRA",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD "
+						},
+						{
+						"name": "Proyectos aprobados: 4" 
+						}				
+					]
+				}
+			
+			]
+		  },  
+{ 
+			"name": "SANTANDER",
+			"children": [
+				{
+					"name": "BARRANCABERMEJA",
+					"children": [
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD "
+						},
+						{
+						"name": "Proyectos aprobados: 1" 
+						}
+					
+					]
+				},
+				{
+					"name": "BUCARAMANGA",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD "
+						},
+						{
+						"name": "Proyectos aprobados: 6" 
+						}					
+					]
+				},
+				{
+					"name": "FLORIDABLANCA",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD "
+						},
+						{
+						"name": "Proyectos aprobados: 3" 
+						}					
+					]
+				},
+				{
+					"name": "PIEDECUESTA",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+						"name": "Proyectos aprobados: 3" 
+						}
+					
+					]
+				}
+			
+			]
+		  },
+{ 
+			"name": "TOLIMA",
+			"children": [
+				{
+					"name": "IBAGUE",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+						"name": "Proyectos aprobados: 2" 
+						}
+					
+					]
+				}
+			
+			]
+		  },  
+{ 
+			"name": "VALLE DEL CAUCA",
+			"children": [
+				{
+					"name": "CALI",
+					"children": [
+						{
+							"name": "FOMENTO A LA INVESTIGACION"
+						},
+						{
+							"name": "PROGRAMA NACIONAL DE CIENCIA, TECNOLOGIA E INNOVACION EN SALUD "
+						},
+						{
+						"name": "Proyectos aprobados: 9" 
+						}				
+					]
+				}
+			
+			]
+		  }  		  
+			
+		
+        ]
+      }
+    ]
+}
